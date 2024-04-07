@@ -2,12 +2,12 @@
 
 A Tertis game for terminal 
 
-## To build run make
-
+## To build
+Commnad -> cd Tetris
 Commnad -> make 
 
 ## After building 
 ## Running the executable
 
-go to bin directory inside the folder 
+Commnad --> cd bin
 command --> tetris
